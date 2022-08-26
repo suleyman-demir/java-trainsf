@@ -24,6 +24,7 @@ public class IfTrain {
         int ilkSayi = scanner.nextInt();
 
         System.out.println("ikinci sayiyi girin:");
+
         int ikinciSayi = scanner.nextInt();
 
         int sonuc = toplamaIslemi(ilkSayi, ikinciSayi);
