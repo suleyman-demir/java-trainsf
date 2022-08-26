@@ -1,3 +1,4 @@
+package example1;
 public class IfTrain {
     
     public static void main(String[] args){
