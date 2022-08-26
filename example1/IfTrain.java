@@ -21,6 +21,7 @@ public class IfTrain {
 
         Scanner scanner = new Scanner(System.in);
         System.out.print("ilk sayiyi girin:");
+
         int ilkSayi = scanner.nextInt();
 
         System.out.println("ikinci sayiyi girin:");
