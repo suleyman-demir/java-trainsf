@@ -13,15 +13,15 @@ public class KelimeleriBolmek {
 
         String[] kelimeler=kelime.split(",");
 
-        String[] dizia = new String[10];
+
 
 
         for (int i=0;i<kelimeler.length;i++){
-            dizia[i]=kelimeler[i];
-            System.out.println(dizia[i]);
+
+            System.out.println(kelimeler[i]);
 
         }
-        System.out.println("dizi uzunluğu: "+dizia.length);
+        System.out.println("dizi uzunluğu: "+kelimeler.length);
 
 
         }
@@ -31,4 +31,4 @@ public class KelimeleriBolmek {
 
 
     }
-}
+
