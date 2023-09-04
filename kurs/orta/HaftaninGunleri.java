@@ -1,7 +1,7 @@
 package kurs.orta;
 import java.util.Scanner;
 
-public class haftaninGunleri {
+public class HaftaninGunleri {
     public static void main(String[] args) {
 
         Scanner sayial = new Scanner(System.in);
@@ -43,5 +43,9 @@ public class haftaninGunleri {
 
 
 
+    }
+
+    public static void yaz(){
+        System.out.println("yazdırdım.");
     }
 }
