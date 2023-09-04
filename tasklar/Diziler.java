@@ -4,7 +4,7 @@ import java.util.Arrays;
 public class Diziler {
     public static void main(String[] args) {
 
-        int[] dizi={5,-7,8,33,03,67,-9879,34,78,-90};
+        int[] dizi={5,-7,8,33,3,67,-9879,34,78,-90};
 
        /* int b=0;
         do {
