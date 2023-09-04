@@ -32,12 +32,13 @@ public class HaftaninGunleriCase {
             case 7:
                 System.out.println("pazar");
                 break;
+            default:
+                System.out.println("HATALI GİRİŞ TEKRAR DENEYİNİZ");
+                break;
+                
 
         }
-       if (gun>7 || gun<1 ) {
-            System.out.println("hatalı giris yaptınız tekrar deneyiniz");
-
-        }
+      
 
 
 
