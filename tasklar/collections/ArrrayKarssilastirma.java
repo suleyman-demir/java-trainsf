@@ -24,7 +24,7 @@ public class ArrrayKarssilastirma {
         dizi1.add(0, 100);
         System.out.println("tüm liste içerir mi:" + dizi1.containsAll(dizi2));      //contains all metohdu burda dizi 1 dizi 2 içindeki hepsini içerir mi kullanılmış
 
-        List<Integer> yeniListe = dizi1.subList(0, dizi1.indexOf(30));   //dizi 1 in 0 dan 30. indexine kadar olan girdileriyle yeni bir liste oluştu
+        List<Integer> yeniListe = dizi1.subList(0, dizi1.indexOf(30));   //dizi 1 in 0 dan başlayıp 30 değerine geleene kadar olan tüm değerlerle yeni bir lsite olusuturu
 
 
         
